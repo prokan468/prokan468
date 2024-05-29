@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Google's Go Language.
 - 💞️ I’m looking to collaborate on repositories based on data structures and algorithms and new Python Modules.
 - 📫 You can reach me on my mail- 2kanishk9@gmail.com
-[![trophy](https://github-profile-trophy.vercel.app/?username=prokan468)](https://github.com/prokan468/github-profile-trophy)
 
 <!---
 prokan468/prokan468 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
